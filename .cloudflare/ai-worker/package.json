@@ -5,7 +5,7 @@
     "deploy": "wrangler deploy --minify"
   },
   "dependencies": {
-    "ai": "^4.3.16",
+    "ai": "^5.0.43",
     "hono": "^4.7.10",
     "workers-ai-provider": "^0.5.2"
   },

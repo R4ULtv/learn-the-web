@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "ai": "^4.3.16",
-    "hono": "^4.7.10",
+    "hono": "^4.9.7",
     "workers-ai-provider": "^0.5.2"
   },
   "devDependencies": {
